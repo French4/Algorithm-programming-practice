@@ -1,0 +1,30 @@
+package com.sd.MP;
+
+public class MaxPQ {
+	private int[] pq;//基于堆的完全二叉树
+	private int N=0;
+	
+	public MaxPQ(int maxN){
+		pq = new int[maxN];
+	}
+	
+	public boolean isEmpty(){
+		return N==0;
+	}
+	public int size(){
+		return N;
+	}
+	
+	//插入一个元素，让其上浮到合适位置
+	public void insert(int v){
+		pq[++N] = v;
+		swim(N);
+	}
+
+	/*
+	 * 上浮操作：当某个节点变的比他的父节点更大而
+	 * */
+	private void swim(int n2) {
+		
+	}
+}

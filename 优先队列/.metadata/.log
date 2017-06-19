@@ -1,0 +1,26 @@
+!SESSION 2017-06-18 12:01:29.469 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.instantiations.common.core 2 0 2017-06-18 12:02:43.969
+!MESSAGE This version of Swing Designer was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+This version of SWT Designer was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+This version of WindowBuilder was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+This version of Shared was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+
+!SESSION 2017-06-19 09:01:24.234 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.instantiations.common.core 2 0 2017-06-19 09:02:35.542
+!MESSAGE This version of Swing Designer was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+This version of SWT Designer was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+This version of WindowBuilder was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+This version of Shared was compiled for Eclipse 3.5 but is running on Eclipse 3.7.
+
